@@ -12,7 +12,7 @@ on:
   
   workflow_dispatch:
 
-permissions: real-all
+permissions: read-all
 
 jobs:
   build:
